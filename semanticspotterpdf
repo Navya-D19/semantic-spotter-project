@@ -50,9 +50,6 @@ langchain 0.3.13
 Please ensure that you add your OpenAI API key to the empty text file named "OpenAI_API_Key.txt" in order to access the OpenAI API.
 8. Running
 Clone the github repository
-$ git clone https://github.com//semantic-spotter-project.git
+$ git clone https://github.com/Navya-D19/semantic-spotter-project.git
 Open the notebook in jupyter and run all cells.
 
-
-
-https://github.com/Navya-D19/semantic-spotter-project
